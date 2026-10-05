@@ -1,4 +1,4 @@
-# Blogging Backend Application
+# BolgVerse - Blogging Backend Application
 
 A production-oriented **RESTful blogging backend** built with **Java and Spring Boot**. The application provides APIs for user management, blog posts, categories, comments, authentication, authorization, pagination, searching, sorting, validation, image uploads, and API documentation.
 
